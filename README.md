@@ -1,12 +1,12 @@
 # 차세대 HBM Roadmap (2025~2040) 기술 발표회
 # KAIST TERALAB 세미나 정리
 
-> **발표자**: 김정호 KAIST 전기및전자공학부 교수 (KAIST TERALAB, 'HBM의 아버지')
-> **일시**: 2025년 6월 11일, 온라인 생중계
-> **주제**: 차세대 HBM Roadmap (2025~2040) Ver. 1.7
-> **영상**:
-> - Session 1: Overview of HBM Roadmap (https://www.youtube.com/watch?v=Lm6Xd5YqhgQ)
-> - Session 2: HBM4 ~ HBM5 (https://www.youtube.com/watch?v=DeZSJK5iV2Q)
+> **발표자**: 김정호 KAIST 전기및전자공학부 교수 (KAIST TERALAB, 'HBM의 아버지') <br>
+> **일시**: 2025년 6월 11일, 온라인 생중계 <br>
+> **주제**: 차세대 HBM Roadmap (2025~2040) Ver. 1.7 <br>
+> **영상**: <br>
+> - Session 1: Overview of HBM Roadmap (https://www.youtube.com/watch?v=Lm6Xd5YqhgQ) <br>
+> - Session 2: HBM4 ~ HBM5 (https://www.youtube.com/watch?v=DeZSJK5iV2Q) <br>
 
 ---
 
