@@ -1,5 +1,5 @@
-# 차세대 HBM Roadmap (2025~2040) 기술 발표회 <br>
-— KAIST TERALAB 세미나 정리
+# 차세대 HBM Roadmap (2025~2040) 기술 발표회
+# KAIST TERALAB 세미나 정리
 
 > **발표자**: 김정호 KAIST 전기및전자공학부 교수 (KAIST TERALAB, 'HBM의 아버지')
 > **일시**: 2025년 6월 11일, 온라인 생중계
